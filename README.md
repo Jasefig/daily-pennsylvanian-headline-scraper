@@ -1,3 +1,11 @@
+# Updates:
+
+This tempelate has been repurposed to aquire the top
+headline from the PR-blog page. This was done by making
+changes to the scrape_data_point point function in script.py. Specifically
+changes were made from the site the site for the request.get as
+well as the target for the soup.
+
 # Basic Git Scraper Template
 
 This template provides a starting point for **git scraping**—the technique of scraping data from websites and automatically committing it to a Git repository using workflows, [coined by Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/).
