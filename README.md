@@ -1,6 +1,6 @@
 # Updates:
 
-This tempelate has been repurposed to aquire the top
+This template has been repurposed to aquire the top
 headline from the PR-blog page. This was done by making
 changes to the scrape_data_point point function in script.py. Specifically
 changes were made from the site the site for the request.get call as
